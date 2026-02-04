@@ -2,7 +2,7 @@
 
 backend:
   name: github
-  repo: user/repo
+  repo: mjpritchard/sv-test-site
 
 media_folder: /static/media
 public_folder: /media
