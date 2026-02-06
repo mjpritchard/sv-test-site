@@ -1,5 +1,7 @@
 # yaml-language-server: $schema=https://unpkg.com/@sveltia/cms/schema/sveltia-cms.json
 
+site_url: https://mjpritchard.github.io/sv-test-site
+
 backend:
   name: github
   repo: mjpritchard/sv-test-site
