@@ -6,8 +6,4 @@ title: third news item with some markup features
 
 As per [new news item](/posts/new-news-item) basic markdown stuff should work.
 
-How about `{{<details>}}`?
-
-{{< details summary="See the details" >}}
-This is a **bold** word.
-{{< /details >}}
+Some other text here.
