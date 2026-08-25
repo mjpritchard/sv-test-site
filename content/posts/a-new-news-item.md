@@ -1,8 +1,8 @@
 ---
-title: a new news item
+title: A new title for this item
 ---
 
-### subtitle
+### subtitle changed as well
 
 something to say here.
 
