@@ -1,5 +1,5 @@
 ---
-title: A new title for this item
+title: A great new title for this item
 ---
 
 ### subtitle changed as well
