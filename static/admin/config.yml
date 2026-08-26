@@ -5,6 +5,7 @@ site_url: https://mjpritchard.github.io/sv-test-site
 backend:
   name: github
   repo: mjpritchard/sv-test-site
+  auth_methods: [token]
 
 media_folder: /static/media
 public_folder: /media
